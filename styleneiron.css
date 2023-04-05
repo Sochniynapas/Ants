@@ -1,0 +1,16 @@
+body {
+    height: 100%;
+}
+
+.canv {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#canvas {
+    border: 5px solid grey;
+}
